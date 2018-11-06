@@ -1,7 +1,12 @@
 {
-  "gps": {
+  "posts": [
+    "gps": {
     "lon": 39.7,
     "lon" : -86.15,
     "alt" : 218.5
+  }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
